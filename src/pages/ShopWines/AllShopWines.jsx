@@ -231,7 +231,7 @@ const AllShopWines = () => {
             <div className="all-wrapper">
                 <div className="container">
                     <div className="row justify-content-between all-content__wrapper">
-                        <div className="col-12 col-md-4">
+                        <div className="col-12 col-lg-4">
                         <div className="all-filter__wrapper g-0">
 
                             <div className='filter-box'>
@@ -393,7 +393,7 @@ const AllShopWines = () => {
                             </div>
                         </div>
                         </div>
-                        <div className="col-12 col-md-8">
+                        <div className="col-12 col-lg-8">
                         <div className="all-card__wrapper">
                             <div className="row">
                                 {

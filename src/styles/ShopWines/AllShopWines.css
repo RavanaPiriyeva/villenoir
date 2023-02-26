@@ -21,9 +21,9 @@
 }
 
 .all-card__wrapper {
-    padding: 0 !important;
+    /* padding: 0 !important;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between; */
     /* width: 65%; */
 }
 
@@ -191,14 +191,14 @@
     }
 
     .all-content__wrapper {
-        gap: 10px;
+        /* gap: 10px; */
     }
 }
 
 @media screen and (max-width: 992px) {
     .all-content__wrapper {
-        display: flex;
-        flex-direction: column;
+        /* display: flex;
+        flex-direction: column; */
     }
 
     .all-filter__wrapper {
@@ -241,8 +241,8 @@
     }
 
     .all-content__wrapper {
-        display: flex;
-        flex-direction: column;
+        /* display: flex;
+        flex-direction: column; */
     }
 
     .filter-wrapper {
